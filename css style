@@ -1,0 +1,32 @@
+header,footer{
+    background-color: blueviolet;
+}
+main,body{
+   background-color: beige;
+}
+.mainText{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.secondText{
+    text-align: end;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: blue;
+    color: aliceblue;
+}
+.imageProfile{
+    width: 35%;
+}
+ul{
+    background-color: aliceblue;
+    color: black;
+}
+ol{
+    background-color: black;
+    color: aliceblue;
+}
+.copyright{
+    background-color: blue;
+}
